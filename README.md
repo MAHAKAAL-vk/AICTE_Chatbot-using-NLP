@@ -18,7 +18,7 @@ The AICTE Chatbot is an intelligent system that leverages NLP to understand and 
 ## Directory Structure
 Ensure your directory structure looks like this:
 
-
+```
 Project__
 ├── data
 │   ├── raw
@@ -32,6 +32,7 @@ Project__
 │   └── Chatbot.py
 ├── requirements.txt
 └── README.md
+```
 
 
 ## Features
