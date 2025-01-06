@@ -18,21 +18,20 @@ The AICTE Chatbot is an intelligent system that leverages NLP to understand and 
 ## Directory Structure
 Ensure your directory structure looks like this:
 
-AICTE_Chatbot_Using_NLP
-├── .venv
-├── Project__
-│   ├── data
-│   │   ├── raw
-│   │   │   └── intents.json
-│   │   └── cleaned
-│   │       └── intents.json
-│   ├── models
-│   │   └── chatbot_model_<timestamp>.pkl
-│   ├── src
-│   │   ├── app.py
-│   │   └── Chatbot.py
-│   ├── requirements.txt
-│   └── README.md
+
+Project__
+├── data
+│   ├── raw
+│   │   └── intents.json
+│   └── cleaned
+│       └── intents.json
+├── models
+│   └── chatbot_model_<timestamp>.pkl
+├── src
+│   ├── app.py
+│   └── Chatbot.py
+├── requirements.txt
+└── README.md
 
 
 ## Features
